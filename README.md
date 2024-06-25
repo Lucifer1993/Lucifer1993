@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning blueteam backtracking
-![Lucifer1993's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Lucifer1993's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucifer1993&show_icons=true&theme=dracula)
 
 - Visitor Count
 
