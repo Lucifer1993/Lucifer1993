@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning blueteam backtracking
-
-<img src="https://github-readme-stats.vercel.app/api?username=Lucifer1993&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact" alt="My github stats"/>
+![Lucifer1993's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
 - Visitor Count
 
